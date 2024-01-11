@@ -120,10 +120,9 @@ author:
 # Reading Files
 include:
   - .htaccess
-  - _pages/included_pages/**
+  - _pages/**
   - files
 exclude:
-  - _pages/excluded_pages/**
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
