@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "David Hilpert"
-  avatar           : "profile.png"
+  name             : "Dr. David Hilpert"
+  avatar           : "_KM_6339_profile.jpg" #"profile.png"
   bio              : "Data Scientist"
   location         : "Braunschweig, Germany"
   employer         :
