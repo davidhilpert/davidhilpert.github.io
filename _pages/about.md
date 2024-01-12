@@ -14,5 +14,9 @@ I am data scientist at the [FUNKE Mediengruppe](https://www.funkemedien.de/de/).
 
 Publications
 ======
-1. Hahm, H. Hilpert, D., and König, T. (2020). &quot;Institutional reform and public attitudes toward EU decision making.&quot; <i>European Journal of Political Research</i>. 59(3): 599-623. 
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+1. Hahm, H., Hilpert, D., and König, T. (2023). &quot;Divided we unite: the nature of partyism and the role of coalition partnership in Europe.&quot; <i>American Political Science Review</i>. Forthcoming. [Paper](https://doi.org/10.1017/S0003055423000266) and [Replication materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YCDJNT). 
+1. Hahm, H., Hilpert, D., and König, T. (2023). &quot;Divided by Europe: affective polarisation in the context of European elections.&quot; <i>West European Politics</i>. 46(4): 705-731. [Paper](https://www.tandfonline.com/doi/full/10.1080/01402382.2022.2133277). 
+1. Juhl, S., and  Hilpert, D. (2021). &quot;Wheeling and dealing behind closed doors: estimating the causal effect of transparency on policy evaluations using a survey experiment.&quot; <i>Political Science Research and Methods</i>. 9(1): 36-52. [Paper](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/wheeling-and-dealing-behind-closed-doors-estimating-the-causal-effect-of-transparency-on-policy-evaluations-using-a-survey-experiment/F38E9DCA76E8DA5B44D44CA81C1BFF1A) and [Replication materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GAPIQO) 
+1. Hahm, H. Hilpert, D., and König, T. (2020). &quot;Institutional reform and public attitudes toward EU decision making.&quot; <i>European Journal of Political Research</i>. 59(3): 599-623. [Paper](https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.12361) and [Replication materials](https://ejpr.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111\%2F1475-6765.12361&file=ejpr12361-sup-0002-SuppMat.docx)
+
+
