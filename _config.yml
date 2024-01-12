@@ -123,7 +123,9 @@ include:
   - _pages
   - files
 exclude:
+  - _pages/cv.md
   - _pages/talks.html
+  - _pages/teaching.html
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -176,9 +178,6 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: false
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -186,6 +185,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   #talks:
+  #  output: false
+  #  permalink: /:collection/:path/
+  #teaching:
   #  output: false
   #  permalink: /:collection/:path/
 
@@ -210,15 +212,15 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  ## _teaching
+  #- scope:
+  #    path: ""
+  #    type: teaching
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: true
+  #    comments: true
   # _publications
   - scope:
       path: ""
