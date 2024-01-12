@@ -236,15 +236,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: null       #layout: talk
-      permalink: /:talks/:path/
-      author_profile: false
-      share: false
+  ## _talks
+  #- scope:
+  #    path: ""
+  #    type: talks
+  #  values:
+  #    layout: null       #layout: talk
+  #    permalink: /:talks/:path/
+  #    author_profile: false
+  #    share: false
 
 # Sass/SCSS
 sass:
