@@ -1,6 +1,6 @@
 ---
 title: "Divided by Europe: affective polarisation in the context of European elections."
-excerpt: "with Hyeonho Hahm and Thomas König. 2020. <i>West European Politics</i>. 46(4): 705-731.<br/><img src='/images/wep2023.png'>"
+excerpt: "with Hyeonho Hahm and Thomas König. 2023. <i>West European Politics</i>. 46(4): 705-731.<br/><img src='/images/wep2023.png'>"
 collection: portfolio
 ---
 
