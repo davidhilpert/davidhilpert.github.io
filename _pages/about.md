@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a data scientist at the [FUNKE Mediengruppe](https://www.funkemedien.de/de/). Previously, I worked as a researcher at the [University of Mannheim](https://www.uni-mannheim.de/gess/), where I earned a PhD in Political Science. In my [doctoral thesis](https://madoc.bib.uni-mannheim.de/63025/) I employ stochastic models of strategic decision-making to study governmental litigation at international courts, while my research interests also cover the everyday decision-making of ordinary people. My research has been published at renowned peer-reviewed journals. Methodologically, I am interested in text-as-data and NLP, machine learning, and causal inference. 
+I am a data scientist at the [FUNKE Mediengruppe](https://www.funkemedien.de/de/). Previously, I worked as a researcher at the [University of Mannheim](https://www.uni-mannheim.de/gess/), where I earned a PhD in Political Science. In my [doctoral thesis](https://madoc.bib.uni-mannheim.de/63025/) I employ stochastic models of strategic decision-making to study governmental litigation at international courts. Also, my research interests cover the everyday decision-making of ordinary people. My research has been published at renowned peer-reviewed journals. Methodologically, I am interested in text-as-data and NLP, machine learning, and causal inference. 
 
 
 
