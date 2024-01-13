@@ -4,7 +4,7 @@ excerpt: "with Hyeonho Hahm and Thomas König. 2020. <i>European Journal of Poli
 collection: portfolio
 ---
 
-![Process Illustration](images/ejpr2020.jpg)
+![Process Illustration](/images/ejpr2020.jpg)
 
 This paper explores the intricate relationship between the institutional design of EU decision making and public support, addressing the democratic deficit criticism. Combining insights from institutional and behavioral literature, the study employs a novel cross-national conjoint experiment in 13 EU member states. Findings reveal a general consensus on preferred institutional reforms across European citizens but notable dissent on sanctioning powers. While the empowerment of the European Parliament doesn't uniformly boost public support, specific institutional dimensions, especially involving proposal power, play a crucial role. The study sheds light on the multidimensionality of EU decision making and emphasizes the nuanced impact of institutional reform on public support.
 
