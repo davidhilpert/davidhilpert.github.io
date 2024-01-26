@@ -1,6 +1,6 @@
 ---
 title: "What predicts the precedential value of judgments by the Court of Justice of the European Union?"
-excerpt: "a Machine Learning Framework for examining legal datasets<br/><img src='/images/precedent_density.jpg'>"
+excerpt: "A Machine Learning Framework for examining legal datasets<br/><img src='/images/precedent_density.jpg'>"
 collection: portfolio
 ---
 
