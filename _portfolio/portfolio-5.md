@@ -11,4 +11,4 @@ Ich wende einen maschinellen Lernansatz an, um den Aufbau von Präzedenzfällen 
 ![Process Illustration](/images/tab_prediction_error.png)
 
 
-Das _Working Paper_ ist [hier] zu finden (auf Englisch) (https://github.com/davidhilpert/precedential-value-ML/blob/main/precedential_value_v01.pdf).
+Das _Working Paper_ ist [hier](https://github.com/davidhilpert/precedential-value-ML/blob/main/precedential_value_v01.pdf) zu finden (auf Englisch).
