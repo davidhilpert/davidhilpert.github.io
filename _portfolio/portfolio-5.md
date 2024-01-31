@@ -1,14 +1,14 @@
 ---
 title: "What predicts the precedential value of judgments by the Court of Justice of the European Union?"
-excerpt: "A Machine Learning Framework for examining legal datasets<br/><img src='/images/precedent_density.jpg'>"
+excerpt: "Ein Machine-Learning-Ansatz zur Untersuchung des Fallrechts des EuGH<br/><img src='/images/precedent_density.jpg'>"
 collection: portfolio
 ---
 
 ![Process Illustration](/images/precedent_density.jpg)
 
-I apply a machine learning framework to study the build-up of precedent in the case-law of the Court of Justice of the European Union (CJEU). Using Random Forests alongside XGBoost and other ML-algorithms, I seek to predict precedential value of judgments by modelling their cite-counts in subsequent years. I find that legal and political factors explain why the CJEU draws upon some of its earlier judgments again and again, while others not never revisited. The results have important implications for the scholarly debates on the European Union and legal integration by international courts.
+Ich wende einen maschinellen Lernansatz an, um den Aufbau von Präzedenzfällen in der Rechtsprechung des Gerichtshofs der Europäischen Union (EuGH) zu untersuchen. Unter Verwendung von Random Forests, XGBoost und anderen maschinellen Lernalgorithmen versuche ich, den präzedenzhaften Wert von Urteilen vorherzusagen, indem ich ihre Zitierhäufigkeit in den folgenden Jahren modelliere. Warum greift der EuGH immer wieder auf einige seiner früheren Urteile zurück, während andere nie erneut überprüft werden? Ein zentrales Ergebnis dieser Untersuchung ist, dass rechtliche und politische Faktoren eine Rolle spielen. Die Ergebnisse haben wichtige Auswirkungen auf die wissenschaftlichen Debatten über die Europäische Union und die rechtliche Integration durch internationale Gerichte.
 
 ![Process Illustration](/images/tab_prediction_error.png)
 
 
-Please check out the working paper [here](https://github.com/davidhilpert/precedential-value-ML/blob/main/precedential_value_v01.pdf). The usual disclaimers apply. 
+Das _Working Paper_ ist [hier] zu finden (auf Englisch) (https://github.com/davidhilpert/precedential-value-ML/blob/main/precedential_value_v01.pdf).
